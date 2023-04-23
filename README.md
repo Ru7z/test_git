@@ -2,3 +2,8 @@
 
 
 master text
+
+
+
+
+rebase_conflict
